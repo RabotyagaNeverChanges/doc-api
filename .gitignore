@@ -1,0 +1,9 @@
+app/__pycache__
+app/set-environment.sh
+app/api/__pycache__
+app/tools/documents/__pycache__
+app/tools/yandex/__pycache__
+
+env
+
+files
